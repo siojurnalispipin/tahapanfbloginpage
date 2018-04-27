@@ -1,0 +1,93 @@
+.manusia{
+    background-color: white;
+    width: 100%;
+    margin: 0 auto;
+}
+
+.kepala{
+    width: 100%;
+    background-color: #142170;
+    height: 70px;
+}
+
+
+.matakiri{
+    float: left;
+    margin-left: 10%;
+    width: 40%;    
+    height: 70px;
+    line-height: 70px;
+}
+
+.judul{
+    color: white;
+    font-size: 22pt;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    
+}
+
+.matakanan{
+    float: right;
+    margin-left: 10%;
+    margin-right: 10%;
+    width: 30%;
+    height: 70px;
+}
+
+
+.email{
+    float: left;
+    height: 70px;
+    padding-top: 12px;
+    width: 40%;
+    color: white;
+}
+
+.password{
+    float: left;
+    height: 70px;
+    width: 40%;
+    padding-top: 12px;
+    color: white;
+}
+
+.login{
+    float: right;
+    height: 70px;
+    width: 20%;
+    padding-top: 32px;
+}
+
+
+.badan{
+    width: 100%;
+    background-color: #efefef;
+    height: 500px;
+}
+
+.tangankiri{
+    float: left;
+    margin-left: 10%;
+    width: 40%;
+    background-color: beige;
+    height: 500px; 
+}
+
+.tangankanan{
+    float: right;
+    margin-left: 10%;
+    margin-right: 10%;
+    width: 30%;
+    height: 500px;
+    background-color: bisque;
+}
+
+
+.kaki{
+    background-color: #142170;
+    color: white;
+    height: 50px;
+    line-height: 50px;
+    padding-left: 30px;
+}
